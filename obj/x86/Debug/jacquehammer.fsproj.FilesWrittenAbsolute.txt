@@ -1,0 +1,15 @@
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/jacquehammer.exe.config
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/jacquehammer.exe.mdb
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/jacquehammer.exe
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/obj/x86/Debug/jacquehammer.exe
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/obj/x86/Debug/jacquehammer.exe.mdb
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/EntityFramework.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/EntityFramework.SqlServer.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/FSharp.Core.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/Newtonsoft.Json.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/NodaTime.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/Newtonsoft.Json.FSharp.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/linq2db.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/Npgsql.dll
+/home/jacqueline/F-sharp/jacquehammer/jacquehammer/bin/Debug/Mono.Security.dll
